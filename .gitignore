@@ -1,0 +1,9 @@
+**/.vscode/*
+bin/*
+data/*
+data-uai.zip
+data-uai
+log/*
+**/ada
+**/CreateSAT
+output/*
